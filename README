@@ -1,0 +1,13 @@
+
+
+Lei Jiang (lionelchange@gmail.com)
+
+This includes the code (R and Python) for my work in SBP 2014 data challenge:
+
+1. All the data required in the work are from GDELT official website. I used the yearly data (not reduced one) of 2000-2005.
+
+2. The python program is used to do ETL (faster) and you'll get a bunch of time series, better in a standalone folder.
+
+3. All other R code is for the core algorithms/analysis in the paper. Plotting code is not included as I directly type them in the R command line. 
+
+4. I did my work under a Windows 7. So don't be bothered if you see path like "data\\"
